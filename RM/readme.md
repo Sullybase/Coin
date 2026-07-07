@@ -17,7 +17,7 @@ v0.4.0
 
 ## What
 
-Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that act as checkpoints. Save the realm from the slimes and their boss. All of the citezens flee from their presence, so expect to be unaided. Relcaim the looted coins. Restore the kingdom!.
+Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that act as checkpoints. Save the realm from the slimes and their boss. All of the citizens flee from their presence, so expect to be unaided. Reclaim the looted coins. Restore the kingdom!
 
 This is my first Godot game and the base game from [Brackeys "How to make a Video Game - Godot Beginner Tutorial"](https://www.youtube.com/watch?v=LOhfqjmasi0).
 
