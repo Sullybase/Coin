@@ -6,7 +6,7 @@
 
 # The Coin Knight 
 
-## [Web](https://sullydux.github.io/The-Coin-Knight/) or [App](https://github.com/sullydux/The-Coin-Knight/releases/latest/)
+## [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 
 ### **Alpha 4**
 v0.4.0
