@@ -1,16 +1,17 @@
 <div align="center">
-<img src="ico.png" alt="Coin Knight Icon" style="float: left; margin-right: 15px; width: 240px; height: 240px;">
+<img src="Icon.png" alt="Coin Knight Icon" style="float: left; margin-right: 15px; width: 240px; height: 240px;">
 </div>
 
 <div align="center">
 
 # The Coin Knight 
 
-## [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 
 ### **Alpha 4**
 v0.4.0
 </div>
+
+[Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 
 ---
 
