@@ -9,9 +9,9 @@
 
 ### **Alpha 4**
 v0.4.0
-</div>
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
+</div>
 
 ---
 
