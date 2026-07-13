@@ -33,9 +33,11 @@ This game is still in active dev with many more fetures and mechanics.
 ### - How I decide version number: X.Y.Z
 
 
-X is a very major version like 0(alpha) or 1(first finsihed release)
-Y is a feture update like adding new functionality or menu buttons
-Z is a minor updata like bug fix or changing placement of existing enemy
+- X is a very major version like 0(alpha) or 1(first finsihed release)
+
+- Y is a feture update like adding new functionality or menu buttons
+
+- Z is a minor update like bug fix or changing placement of existing enemy
 
 ---
 
