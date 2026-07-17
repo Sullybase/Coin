@@ -8,7 +8,7 @@
 
 
 ### **Alpha 4**
-v0.4.0
+v0.5.0
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
