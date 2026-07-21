@@ -8,7 +8,7 @@
 
 
 ### **Alpha 4**
-v0.5.0
+v0.6.0
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
@@ -26,8 +26,6 @@ This is my first Godot game and the base game from [Brackeys "How to make a Vide
 ## To add
 
 This game is still in active dev with many more fetures and mechanics.
-
-- Saves
 - Boss
 
 ### - How I decide version number: X.Y.Z
@@ -54,3 +52,9 @@ Hopefully v1.0.0 will be released mid or late July.
 [CosmicOnion's Medival Weapons asset pack](https://cosmiconion.itch.io/32x32-medieval-weapons-pixel-art-pack?download) for sword asset
 
 [Cainos' Pixel Art Platformer - Village Props](https://cainos.itch.io/pixel-art-platformer-village-props) for the flags
+
+[Anokolisa' Pixel Crawler - Free Pack](https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites) for the wizard
+
+[Runica's Pixel Menu Box + Buttons](https://runica.itch.io/pixel-menu-box-buttons) for text boxes
+
+[Caio's Raven Fantasy Icons](https://clockworkraven.itch.io/raven-fantasy-icons) for the key icon
