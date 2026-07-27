@@ -7,7 +7,7 @@
 # The Coin Knight 
 
 
-### **Alpha 4**
+### **Release 1**
 v1.0.0
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
