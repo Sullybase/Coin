@@ -8,7 +8,7 @@
 
 
 ### **Alpha 4**
-v0.6.0
+v1.0.0
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
@@ -26,7 +26,8 @@ This is my first Godot game and the base game from [Brackeys "How to make a Vide
 ## To add
 
 This game is still in active dev with many more fetures and mechanics.
-- Boss
+- Bigger map
+- Spike traps
 
 ### - How I decide version number: X.Y.Z
 
@@ -41,7 +42,7 @@ This game is still in active dev with many more fetures and mechanics.
 
 ## When
 
-Hopefully v1.0.0 will be released mid or late July.
+v1.0.0 released July 27, 2026.
 
 ---
 
@@ -57,4 +58,6 @@ Hopefully v1.0.0 will be released mid or late July.
 
 [Runica's Pixel Menu Box + Buttons](https://runica.itch.io/pixel-menu-box-buttons) for text boxes
 
-[Caio's Raven Fantasy Icons](https://clockworkraven.itch.io/raven-fantasy-icons) for the key icon
+[Caio's Raven Fantasy Icons](https://clockworkraven.itch.io/raven-fantasy-icons) for the key and rune icon
+
+[Elvgames' Inventory Asset Pack](https://elvgames.itch.io/free-inventory-asset-pack) for hearts and boss bar
