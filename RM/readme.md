@@ -15,38 +15,57 @@ v1.0.0
 
 ---
 
-## What
+**Official Website:** https://sullybase.github.io/Coin/
+
+**Developer:** [Sullydux](https://github.com/sullydux)
+
+**Contact Me:** [Go to contact me page](https://sullydux.github.io/sullydux/email.html)
+
+**Patreon & Download:** [Patreon collection](https://www.patreon.com/collection/2257757)
+
+---
 
 Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that act as checkpoints. Save the realm from the slimes and their boss. All of the citizens flee from their presence, so expect to be unaided. Reclaim the looted coins. Restore the kingdom!
 
-This is my first Godot game and the base game from [Brackeys "How to make a Video Game - Godot Beginner Tutorial"](https://www.youtube.com/watch?v=LOhfqjmasi0).
+---
+
+This is a 2D pixel art game I made for fun. It is my first Godot game, so I was and am still learning. It automatically saves periodically, but to be safe, just hit save.
+
+It is available as a Windows or Mac app and on a website. It is unsigned because I am unable to pay.
+
+It has controller support, but as of July 27 I have been unable to test it.
+
+---
+
+## Controls:
+
+- Move Right: [D] or [Right Arrow] or left joystick
+- Move Left: [A] or [Left Arrow] or left joystick
+- Jump: [W] or [Up Arrow] or left joystick or Xbox Y/Sony Triangle/Nintendo X
+- Swing sword: [Space] or Xbox/Sony Right triggers
+- Open in-game menu: [ESC] or Xbox X/Sony Square/Nintendo Y
+- Chat- Advance: [Space] or [Enter] or Xbox B/Sony Circle/Nintendo A
+- Chat- Accept: [Space] or [Enter] or Xbox A/Sony Cross/Nintendo B
+- Chat-Decline: [Shift] or Xbox B/Sony Circle/Nintendo A
 
 ---
 
 ## To add
 
-This game is still in active dev with many more fetures and mechanics.
+This game is still in active dev with more features and mechanics.
+
 - Bigger map
 - Spike traps
 
-### - How I decide version number: X.Y.Z
-
-
-- X is a very major version like 0(alpha) or 1(first finsihed release)
-
-- Y is a feture update like adding new functionality or menu buttons
-
-- Z is a minor update like bug fix or changing placement of existing enemy
-
 ---
 
-## When
-
-v1.0.0 released July 27, 2026.
+Made on Godot 4.6.3-stable with M2 Macbook Air 8GB RAM.
 
 ---
 
 ## Thanks
+
+This is my first Godot game and the base of the game was from [Brackeys "How to make a Video Game - Godot Beginner Tutorial"](https://www.youtube.com/watch?v=LOhfqjmasi0).
 
 [Brackeys Itch.io asset page](https://brackeysgames.itch.io/brackeys-platformer-bundle) for tile maps, sounds, slimes, character, and coins
 
