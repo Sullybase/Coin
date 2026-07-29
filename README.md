@@ -25,7 +25,7 @@ v1.0.0
 
 ---
 
-Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that act as checkpoints. Save the realm from the slimes and their boss. All of the citizens flee from their presence, so expect to be unaided. Reclaim the looted coins. Restore the kingdom!
+Explore a handcrafted pixel art world packed with challenges and hidden secrets, all within a tightly designed map. Coins are scattered throughout the environment, rewarding careful exploration and clever platforming. Scattered flags act as checkpoints, letting you push forward without losing progress when you fall. The realm is under siege by slimes and their fearsome boss, causing all citizens to flee in fear. With no help from them, you must face the threat alone. Battle through slime-infested areas, recover the looted coins, and restore peace to the kingdom in this intense adventure. You are the knight who shall recover the realm!
 
 ---
 
