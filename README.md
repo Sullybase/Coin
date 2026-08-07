@@ -82,3 +82,11 @@ This is my first Godot game and the base of the game was from [Brackeys "How to 
 [Elvgames' Inventory Asset Pack](https://elvgames.itch.io/free-inventory-asset-pack) for hearts and boss bar
 
 'Menu Music' on pixabay — music
+
+---
+
+## Legal
+
+This project is licensed under the terms found here:
+
+[View License](https://sullybase.github.io/Coin/LICENSE.txt)

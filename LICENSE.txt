@@ -1,0 +1,79 @@
+Copyright © 2026 Sullydux (GitHub). All rights reserved.
+Effective August 7, 2026.
+
+This is a proprietary, source-available license. It is NOT an open-source license,
+and no rights are granted except those expressly stated below.
+
+--------------------------------------------------------------------------
+1. GRANT OF RIGHTS
+
+Permission is granted, free of charge, to:
+  - Play the game for personal, non-commercial use.
+  - Share links to its official versions (see "Official Sources" below).
+
+--------------------------------------------------------------------------
+2. RESTRICTIONS
+
+Except as expressly permitted above, you may NOT, without prior written
+permission from Sullydux (email or other written form):
+
+  - Copy, reproduce, redistribute, upload, mirror, or embed the game
+    (or any part of it, including source code or packaged files) on
+    another website, platform, or service.
+  - Create, distribute, or publish modifications, forks, mods, or
+    derivative works based on the game.
+  - Use the game or its assets for any commercial purpose.
+  - Third-party assets remain governed solely by their own licenses
+
+--------------------------------------------------------------------------
+3. DISCLAIMER OF WARRANTY
+
+THE GAME IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. SULLYDUX DOES NOT
+WARRANT THAT THE GAME WILL BE ERROR-FREE, SECURE, OR UNINTERRUPTED.
+
+--------------------------------------------------------------------------
+4. LIMITATION OF LIABILITY
+
+Use of the game is entirely at your own risk. To the fullest extent
+permitted by law, Sullydux shall not be liable for any direct, indirect,
+incidental, special, or consequential damages arising from downloading,
+installing, using, modifying, or distributing the game — including but
+not limited to data loss, hardware damage, or software damage — even if
+advised of the possibility of such damages.
+
+--------------------------------------------------------------------------
+5. GOVERNING LAW
+
+These terms are governed by the laws of the United States of America, without
+regard to conflict-of-law principles, unless otherwise required by
+applicable local law.
+
+--------------------------------------------------------------------------
+6. OFFICIAL SOURCES
+
+Website:
+  https://sullybase.github.io/Coin/
+
+GitHub / Patreon(free):
+  User: Sullydux
+  Organization: Sullybase
+
+Any file downloaded directly from the above sources is considered official.
+
+--------------------------------------------------------------------------
+7. THIRD-PARTY ASSETS
+
+The game includes third-party assets. See the credits page for details:
+
+  https://sullybase.github.io/Coin/RM/
+
+This license does not override or supersede the license terms of any
+third-party asset listed there.
+
+--------------------------------------------------------------------------
+8. REFERENCE
+
+U.S. Copyright Office FAQ:
+  https://www.copyright.gov/help/faq/faq-general.html
