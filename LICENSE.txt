@@ -1,18 +1,26 @@
 Copyright © 2026 Sullydux (GitHub). All rights reserved.
 Effective August 7, 2026.
 
-This is a proprietary, source-available license. It is NOT an open-source license,
+This is a proprietary license. It is NOT an open-source license,
 and no rights are granted except those expressly stated below.
 
 --------------------------------------------------------------------------
-1. GRANT OF RIGHTS
+1. Definitions
+
+“Game” means The Coin Knight, including its source code, executable builds, assets,
+documentation, and other files supplied by Sullydux, except third-party
+materials identified in the credits.
+
+
+--------------------------------------------------------------------------
+2. GRANT OF RIGHTS
 
 Permission is granted, free of charge, to:
   - Play the game for personal, non-commercial use.
   - Share links to its official versions (see "Official Sources" below).
 
 --------------------------------------------------------------------------
-2. RESTRICTIONS
+3. RESTRICTIONS
 
 Except as expressly permitted above, you may NOT, without prior written
 permission from Sullydux (email or other written form):
@@ -26,7 +34,7 @@ permission from Sullydux (email or other written form):
   - Third-party assets remain governed solely by their own licenses
 
 --------------------------------------------------------------------------
-3. DISCLAIMER OF WARRANTY
+4. DISCLAIMER OF WARRANTY
 
 THE GAME IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
@@ -34,7 +42,7 @@ FITNESS FOR A PARTICULAR PURPOSE, AND NON-INFRINGEMENT. SULLYDUX DOES NOT
 WARRANT THAT THE GAME WILL BE ERROR-FREE, SECURE, OR UNINTERRUPTED.
 
 --------------------------------------------------------------------------
-4. LIMITATION OF LIABILITY
+5. LIMITATION OF LIABILITY
 
 Use of the game is entirely at your own risk. To the fullest extent
 permitted by law, Sullydux shall not be liable for any direct, indirect,
@@ -44,14 +52,14 @@ not limited to data loss, hardware damage, or software damage — even if
 advised of the possibility of such damages.
 
 --------------------------------------------------------------------------
-5. GOVERNING LAW
+6. GOVERNING LAW
 
 These terms are governed by the laws of the United States of America, without
 regard to conflict-of-law principles, unless otherwise required by
 applicable local law.
 
 --------------------------------------------------------------------------
-6. OFFICIAL SOURCES
+7. OFFICIAL SOURCES
 
 Website:
   https://sullybase.github.io/Coin/
@@ -63,7 +71,7 @@ GitHub / Patreon(free):
 Any file downloaded directly from the above sources is considered official.
 
 --------------------------------------------------------------------------
-7. THIRD-PARTY ASSETS
+8. THIRD-PARTY ASSETS
 
 The game includes third-party assets. See the credits page for details:
 
@@ -73,7 +81,7 @@ This license does not override or supersede the license terms of any
 third-party asset listed there.
 
 --------------------------------------------------------------------------
-8. REFERENCE
+9. REFERENCE
 
 U.S. Copyright Office FAQ:
   https://www.copyright.gov/help/faq/faq-general.html
