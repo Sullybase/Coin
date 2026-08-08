@@ -8,7 +8,7 @@
 
 
 ### **Release 1**
-v1.0.1
+v1.2.0
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
