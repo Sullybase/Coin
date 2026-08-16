@@ -54,8 +54,22 @@ It has controller support, but as of July 27 I have been unable to test it.
 
 This game is still in active dev with more features and mechanics.
 
-- Bigger map
-- Spike traps
+V1.3
+- “I felt that the sword didn't quite fit the game's theme; it would be better to keep the sword but change its appearance or scale it down.”
+- Boss harder
+- Music loop
+- Confused about the objective
+    - Wizard shares info on the items and has another NPC sell (cheaply) info/lore on what to do, but hidden at the base of the mountain (right side, close to the start), so exploration will bring you info.
+- Controls: Hollow Knight
+- Buy map from pedestal
+- Different door sprite
+
+
+V1.4   (Could've been same update but less important and I have playtest platform so cant have week long update)
+- Sensitivity has mixed feelings, coyote time, use a .1 sec timer
+- More enemies and attack patterns
+- Music: reg-reg, fast_paced_boss-boss, raining_village-right
+- More sounds: kill slime, death 
 
 ---
 
@@ -69,8 +83,6 @@ This is my first Godot game and the base of the game was from [Brackeys "How to 
 
 [Brackeys Itch.io asset page](https://brackeysgames.itch.io/brackeys-platformer-bundle) for tile maps, sounds, slimes, character, and coins
 
-[CosmicOnion's Medival Weapons asset pack](https://cosmiconion.itch.io/32x32-medieval-weapons-pixel-art-pack?download) for sword asset
-
 [Cainos' Pixel Art Platformer - Village Props](https://cainos.itch.io/pixel-art-platformer-village-props) for the flags
 
 [Anokolisa' Pixel Crawler - Free Pack](https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites) for the wizard
@@ -81,7 +93,11 @@ This is my first Godot game and the base of the game was from [Brackeys "How to 
 
 [Elvgames' Inventory Asset Pack](https://elvgames.itch.io/free-inventory-asset-pack) for hearts and boss bar
 
+[Refo's NPC and Enemies](https://refo.itch.io/npc-and-enemies) for non Wizard NPC
+
 'Menu Music' on pixabay — music
+
+Me(sullydux) for sword asset
 
 ---
 
