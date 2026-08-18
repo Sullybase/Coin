@@ -39,16 +39,25 @@ It has controller support, which is tested on mac app.
 
 ## Controls:
 
+### Movement
 | Action | Keyboard | PlayStation | Xbox | Nintendo |
 |---|---|---|---|---|
-| **Move Right** | `D`, `Right Arrow` | `Left Stick Right`, `D-Pad Right` | `Left Stick Right`, `D-Pad Right` | `Left Stick Right`, `D-Pad Right` |
-| **Move Left** | `A`, `Left Arrow` | `Left Stick Left`, `D-Pad Left` | `Left Stick Left`, `D-Pad Left` | `Left Stick Left`, `D-Pad Left` |
-| **Move Up** | `W`, `Up Arrow` | `Right Stick Up`, `Circle`, `D-Pad Up` | `Right Stick Up`, `B`, `D-Pad Up` | `Right Stick Up`, `A`, `D-Pad Up` |
-| **Open Menu** | `Escape` | `Square` | `X` | `Y` |
-| **Attack** | `Space`, `Down Arrow` | `R1`, `R2`, `D-Pad Down` | `RB`, `RT`, `D-Pad Down` | `R`, `ZR`, `D-Pad Down` |
-| **Advance** | `Space`, `Enter`, `W` | `R2`, `Cross (✕)` | `RT`, `A` | `ZR`, `B` |
-| **Accept** | `Enter`, `Space`, `W` | `Cross (✕)`, `R2` | `A`, `RT` | `B`, `ZR` |
-| **Decline** | `S`, `Shift` | `Circle (○)`, `L2` | `B`, `LT` | `A`, `ZL` |
+| **Move Right** | `D` / `→` | `L-Stick Right` / `D-Pad Right` | `L-Stick Right` / `D-Pad Right` | `L-Stick Right` / `D-Pad Right` |
+| **Move Left** | `A` / `←` | `L-Stick Left` / `D-Pad Left` | `L-Stick Left` / `D-Pad Left` | `L-Stick Left` / `D-Pad Left` |
+| **Move Up** | `W` / `↑` | `R-Stick Up` / `○` / `D-Pad Up` | `R-Stick Up` / `B` / `D-Pad Up` | `R-Stick Up` / `A` / `D-Pad Up` |
+
+### Menus
+| Action | Keyboard | PlayStation | Xbox | Nintendo |
+|---|---|---|---|---|
+| **Open Menu** | `Esc` | `□` | `X` | `Y` |
+| **Accept** | `Enter` / `Space` / `W` | `✕` / `R2` | `A` / `RT` | `B` / `ZR` |
+| **Decline** | `S` / `Shift` | `○` / `L2` | `B` / `LT` | `A` / `ZL` |
+
+### Actions
+| Action | Keyboard | PlayStation | Xbox | Nintendo |
+|---|---|---|---|---|
+| **Attack** | `Space` / `↓` | `R1` / `R2` / `D-Pad Down` | `RB` / `RT` / `D-Pad Down` | `R` / `ZR` / `D-Pad Down` |
+| **Advance** | `Space` / `Enter` / `W` | `R2` / `✕` | `RT` / `A` | `ZR` / `B` |
 
 ---
 
