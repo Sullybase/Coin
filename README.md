@@ -65,11 +65,56 @@ It has controller support, which is tested on mac app.
 
 This game is still in active dev with more features and mechanics. Dev will be paused 8/23/26 for some time, it is a hobby project.
 
-V1.4
-- Sensitivity has mixed feelings, coyote time, use a .1 sec timer
-- More enemies and attack patterns
-- Music: the current, boss music, new music for right side
-- More sounds: kill slime, death 
+### v1.4 — Polish & Fixes
+
+**Movement/feel**
+- Add coyote time, 0.08s timer
+- Remove coin placements that require jumping down blind
+
+**Enemies**
+- Remove most stationary slimes (keep the first one)
+- Remove enemies stuck in small holes
+- Fill enemy-less zones on the map
+- New enemy: red slime, bounces around like a ball
+- New enemy: mushroom, periodically releases fumes
+- Rename category to "slimes and their allies"
+
+**Hazards/coins**
+- No ultra-hidden spikes — nothing blocking line of sight
+- Cave spikes: make visible, move higher up
+- No fully hidden coins
+
+**Save system**
+- Save only at flags, with a visible save icon
+- Death reloads last save
+- Boss room already locks on entry — confirmed it resets boss to full HP on death/reload, no new work needed here
+
+**Audio**
+- Add music for boss and other non boss track
+- Add sounds: slime kill, death
+
+### v1.5 — New Land Expansion
+
+**New area**
+- Second arena for later-game use
+- Path to reach it
+- Hidden portal, hinted at on the map
+- Hidden portal in the cave leading to the new land
+- Shop placed near the portal entrance
+
+**Enemies**
+- New enemy: spider, walking type, takes 3 hits
+
+**Shop**
+- Attack damage rune
+- Revive potions
+
+**Progression**
+- Dash rune (mid-game unlock, useful in new land)
+- Map becomes a buyable item
+
+**UI**
+- % complete in pause menu (30% boss, 70% coins — enemy drops feed coin %)
 
 ---
 
