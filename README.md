@@ -7,8 +7,8 @@
 # The Coin Knight 
 
 
-### Release 2
-v1.3.0
+### Release 3
+v1.4.0
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
@@ -50,48 +50,25 @@ It has controller support, which is tested on mac app.
 | Action | Keyboard | PlayStation | Xbox | Nintendo |
 |---|---|---|---|---|
 | **Open Menu** | `Esc` | `□` | `X` | `Y` |
-| **Accept** | `Enter` / `Space` / `W` | `✕` / `R2` | `A` / `RT` | `B` / `ZR` |
-| **Decline** | `S` / `Shift` | `○` / `L2` | `B` / `LT` | `A` / `ZL` |
+| **Accept** | `Enter` / `Space` | `✕` / `R2` | `A` / `RT` | `B` / `ZR` |
+| **Decline** | `Shift` | `○` / `L2` | `B` / `LT` | `A` / `ZL` |
+| **Advance** | `Space` / `Enter` | `R2` / `✕` | `RT` / `A` | `ZR` / `B` |
 
 ### Actions
 | Action | Keyboard | PlayStation | Xbox | Nintendo |
 |---|---|---|---|---|
 | **Attack** | `Space` / `↓` | `R1` / `R2` / `D-Pad Down` | `RB` / `RT` / `D-Pad Down` | `R` / `ZR` / `D-Pad Down` |
-| **Advance** | `Space` / `Enter` / `W` | `R2` / `✕` | `RT` / `A` | `ZR` / `B` |
 
 ---
 
-## To add
+## Updates:
 
 This game is still in active dev with more features and mechanics. Dev will be paused 8/23/26 for some time, it is a hobby project.
 
-### v1.4 — Polish & Fixes
+### v1.4 — Audio
 
-**Movement/feel**
-- Add coyote time, 0.08s timer
-- Remove coin placements that require jumping down blind
-
-**Enemies**
-- Remove most stationary slimes (keep the first one)
-- Remove enemies stuck in small holes
-- Fill enemy-less zones on the map
-- New enemy: red slime, bounces around like a ball
-- New enemy: mushroom, periodically releases fumes
-- Rename category to "slimes and their allies"
-
-**Hazards/coins**
-- No ultra-hidden spikes — nothing blocking line of sight
-- Cave spikes: make visible, move higher up
-- No fully hidden coins
-
-**Save system**
-- Save only at flags, with a visible save icon
-- Death reloads last save
-- Boss room already locks on entry — confirmed it resets boss to full HP on death/reload, no new work needed here
-
-**Audio**
 - Add music for boss and other non boss track
-- Add sounds: slime kill, death
+- Add sounds: enemy killed, death
 
 ### v1.5 — New Land Expansion
 
@@ -108,15 +85,18 @@ This game is still in active dev with more features and mechanics. Dev will be p
 **Shop**
 - Attack damage rune
 - Revive potions
+    - Find in scattered envirment
+- Dash rune
 
 **Progression**
-- Dash rune (mid-game unlock, useful in new land)
 - Map becomes a buyable item
 
 **UI**
 - % complete in pause menu (30% boss, 70% coins — enemy drops feed coin %)
 
 ---
+
+## How was made
 
 Made on Godot 4.6.3-stable with M2 Macbook Air 8GB RAM.
 Later made on Godot 4.7.1-stable with Macbook Pro M5 Pro 24GB RAM.
@@ -142,6 +122,8 @@ This is my first Godot game and the base of the game was from [Brackeys "How to 
 [Elvgames' Inventory Asset Pack](https://elvgames.itch.io/free-inventory-asset-pack) for hearts and boss bar
 
 [Refo's NPC and Enemies](https://refo.itch.io/npc-and-enemies) for non Wizard NPC
+
+[Seliel the Shaper's Moody Mushroom](https://seliel-the-shaper.itch.io/moody-mushroom) for mushroom assets(I edited for my use case)
 
 'Menu Music' on pixabay — music
 
