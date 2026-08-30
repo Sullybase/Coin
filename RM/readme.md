@@ -63,9 +63,9 @@ It has controller support, which is tested on mac app.
 
 ## Updates:
 
-This game is still in active dev with more features and mechanics. Dev will be paused 8/23/26 for some time, it is a hobby project.
+This game is still in active dev with more features and mechanics. It is a hobby project.
 
-### v1.4 — Audio
+### v1.4.2 — Audio
 
 - Add music for boss and other non boss track
 - Add sounds: enemy killed, death
@@ -93,6 +93,18 @@ This game is still in active dev with more features and mechanics. Dev will be p
 
 **UI**
 - % complete in pause menu (30% boss, 70% coins — enemy drops feed coin %)
+
+### v1.5.1 — Menu and Settings
+
+**UI**
+- % complete in pause menu 
+    - (30% boss, 70% coins — enemy drops feed coin %)
+	  Or
+    - (30% boss, 40% coins, 30% enemies)
+
+**Settings**
+- keybinds
+- volume (0-200%)
 
 ---
 
