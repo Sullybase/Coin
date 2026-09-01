@@ -69,6 +69,12 @@ This game is still in active dev with more features and mechanics. It is a hobby
 
 - Add music for boss and other non boss track
 - Add sounds: enemy killed, death
+- Fix saving and checkpoints
+	- Enter verification for re-enter
+	- Works in general
+- Clarify the purpose of `!` signs.
+    - Make them indicate that a source of danger is nearby/ahead.
+    - Place them closer to the source of danger so the warning feels more relevant.
 
 ### v1.5 — New Land Expansion
 
