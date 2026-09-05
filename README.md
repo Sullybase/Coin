@@ -67,7 +67,6 @@ This game is still in active dev with more features and mechanics. It is a hobby
 
 ### v1.4.2 — Audio
 
-- Add music for boss and other non boss track
 - Add sounds: enemy killed, death
 - Fix saving and checkpoints
 	- Enter verification for re-enter
@@ -75,6 +74,7 @@ This game is still in active dev with more features and mechanics. It is a hobby
 - Clarify the purpose of `!` signs.
     - Make them indicate that a source of danger is nearby/ahead.
     - Place them closer to the source of danger so the warning feels more relevant.
+- Tutorial says “Use a flag to save your game”
 
 ### v1.5 — New Land Expansion
 
@@ -100,7 +100,7 @@ This game is still in active dev with more features and mechanics. It is a hobby
 **UI**
 - % complete in pause menu (30% boss, 70% coins — enemy drops feed coin %)
 
-### v1.5.1 — Menu and Settings
+### v1.5.1 — Menu, Settings, & Polish
 
 **UI**
 - % complete in pause menu 
@@ -111,6 +111,9 @@ This game is still in active dev with more features and mechanics. It is a hobby
 **Settings**
 - keybinds
 - volume (0-200%)
+
+**Polish**
+-Flag shows where been
 
 ---
 
