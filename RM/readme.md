@@ -113,7 +113,8 @@ This game is still in active dev with more features and mechanics. It is a hobby
 - volume (0-200%)
 
 **Polish**
--Flag shows where been
+- Map shows where been
+- Can buy map as mini map
 
 ---
 
