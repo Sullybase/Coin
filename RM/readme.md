@@ -131,6 +131,8 @@ Tested on the same computer it was created on. Tested Windows on VMware Fusion W
 
 This is my first Godot game and the base of the game was from [Brackeys "How to make a Video Game - Godot Beginner Tutorial"](https://www.youtube.com/watch?v=LOhfqjmasi0).
 
+Big thanks to all of my reviewers on Play2Review
+
 [Brackeys Itch.io asset page](https://brackeysgames.itch.io/brackeys-platformer-bundle) for tile maps, sounds, slimes, character, and coins
 
 [Cainos' Pixel Art Platformer - Village Props](https://cainos.itch.io/pixel-art-platformer-village-props) for the flags, spikes, chain door, and magic rocks
