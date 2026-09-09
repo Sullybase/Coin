@@ -7,8 +7,8 @@
 # The Coin Knight 
 
 
-### Release 3
-v1.4.1
+### Release 4
+v1.4.2
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
@@ -50,9 +50,9 @@ It has controller support, which is tested on mac app.
 | Action | Keyboard | PlayStation | Xbox | Nintendo |
 |---|---|---|---|---|
 | **Open Menu** | `Esc` | `□` | `X` | `Y` |
-| **Accept** | `Enter` / `Space` | `✕` / `R2` | `A` / `RT` | `B` / `ZR` |
+| **Accept** | `Enter`| `✕` / `R2` | `A` / `RT` | `B` / `ZR` |
 | **Decline** | `Shift` | `○` / `L2` | `B` / `LT` | `A` / `ZL` |
-| **Advance** | `Space` / `Enter` | `R2` / `✕` | `RT` / `A` | `ZR` / `B` |
+| **Advance** | `Enter` | `R2` / `✕` | `RT` / `A` | `ZR` / `B` |
 
 ### Actions
 | Action | Keyboard | PlayStation | Xbox | Nintendo |
@@ -61,20 +61,19 @@ It has controller support, which is tested on mac app.
 
 ---
 
+## How To Play- Basic
+
+WAD and arrows to move & space to attack.
+
+The game only saves when you pass through a flag and activate it. So, there is no autosaving. When you die the game loads last save.
+
+Coin are gained by exploring, and as a reward to killing enemies. They can be used by buying items and paying for transport.
+
+---
+
 ## Updates:
 
-This game is still in active dev with more features and mechanics. It is a hobby project.
-
-### v1.4.2 — Audio
-
-- Add sounds: enemy killed, death
-- Fix saving and checkpoints
-	- Enter verification for re-enter
-	- Works in general
-- Clarify the purpose of `!` signs.
-    - Make them indicate that a source of danger is nearby/ahead.
-    - Place them closer to the source of danger so the warning feels more relevant.
-- Tutorial says “Use a flag to save your game”
+This game is still in active dev with more features and mechanics. It is a hobby project and I'm at school.
 
 ### v1.5 — New Land Expansion
 
@@ -89,32 +88,23 @@ This game is still in active dev with more features and mechanics. It is a hobby
 - New enemy: spider, walking type, takes 3 hits
 
 **Shop**
-- Attack damage rune
-- Revive potions
-    - Find in scattered envirment
+- Revive rune
 - Dash rune
-
-**Progression**
-- Map becomes a buyable item
-
-**UI**
-- % complete in pause menu (30% boss, 70% coins — enemy drops feed coin %)
 
 ### v1.5.1 — Menu, Settings, & Polish
 
 **UI**
-- % complete in pause menu 
-    - (30% boss, 70% coins — enemy drops feed coin %)
-	  Or
+- % complete in pause menu
     - (30% boss, 40% coins, 30% enemies)
 
 **Settings**
-- keybinds
+- keybinds for jump & attack
 - volume (0-200%)
 
 **Polish**
 - Map shows where been
 - Can buy map as mini map
+- Add sounds: enemy killed, death
 
 ---
 
