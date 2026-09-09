@@ -21,9 +21,9 @@
 
 
   <meta name="description"
-        content="Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that act as checkpoints. Save the realm from the slimes and their boss. All of the citizens flee from their presence, so expect to be unaided. Reclaim the looted coins. Restore the kingdom!">
+        content="Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that [...]
   <meta property="og:description"
-        content="Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that act as checkpoints. Save the realm from the slimes and their boss. All of the citizens flee from their presence, so expect to be unaided. Reclaim the looted coins. Restore the kingdom!">
+        content="Explore a handcrafted pixel art world filled with challenges and hidden secrets. Coins are scattered throughout the world, waiting to be collected. There are scattered flags that [...]
   <meta name="author" content="Sullydux">
   <meta name="robots" content="index,follow">
   <link rel="canonical" href="https://sullybase.github.io/Coin/">
@@ -33,7 +33,7 @@
     :root{--accent:#0f6fff;--bg:#0f1724;--card:#0b1220;--muted:#9aa4b2;--base-font-size:16px;--icon-size:64px;--character-width:140px;--enemy-width:120px;--flag-width:96px;color-scheme:dark}
     *{box-sizing:border-box}
     html{font-size:var(--base-font-size)}
-    body{margin:0;font-family:Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;background:linear-gradient(180deg,#071022 0%, #081426 60%);color:#e6eef8;line-height:1.4}
+    body{margin:0;font-family:Inter, ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;background:linear-gradient(180deg,#071022 0%, #081426 60%);color:#e6eef8;line-height:1.6}
     .container{max-width:1100px;margin:28px auto;padding:20px}
     header{display:flex;align-items:center;justify-content:space-between;padding:12px 18px;background:linear-gradient(90deg, rgba(255,255,255,0.03), transparent);border-radius:12px}
     .brand{display:flex;align-items:center;gap:14px}
@@ -42,7 +42,7 @@
     .subtitle{font-size:0.8125rem;color:var(--muted);margin-top:2px}
     .byline{color:var(--muted);font-size:0.875rem;text-decoration:none}
 
-    .hero{display:grid;grid-template-columns:1fr;gap:20px;margin-top:18px;align-items:center;padding:18px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01));overflow:hidden}
+    .hero{display:grid;grid-template-columns:1fr;gap:20px;margin-top:18px;align-items:center;padding:18px;border-radius:12px;background:linear-gradient(180deg, rgba(255,255,255,0.02), rgba(255,255,255,0.01))}
     .hero-banner{background:url('Web_Asset/Cover.png') center/cover no-repeat;border-radius:10px;height:360px;display:flex;align-items:flex-end;padding:18px}
     .hero-card{background:rgba(2,6,23,0.5);padding:12px;border-radius:8px;backdrop-filter:blur(6px)}
 
@@ -54,7 +54,7 @@
     .character{width:var(--character-width);height:auto;margin:0 auto;display:block}
     .enemy{width:var(--enemy-width);height:auto;margin:0 auto;display:block}
     /* Pixel-art rendering: prefer nearest-neighbor to avoid blurry scaling */
-    .pixel-art{image-rendering: optimizeSpeed;image-rendering: -moz-crisp-edges;image-rendering: -o-crisp-edges;image-rendering: -webkit-optimize-contrast;image-rendering: crisp-edges;image-rendering: pixelated;image-rendering: -webkit-crisp-edges;}
+    .pixel-art{image-rendering: optimizeSpeed;image-rendering: -moz-crisp-edges;image-rendering: -o-crisp-edges;image-rendering: -webkit-optimize-contrast;image-rendering: crisp-edges;image-rendering:pixelated}
     h2{margin:0 0 8px 0}
     p{margin:0;color:#cdd9ea}
 
@@ -66,10 +66,100 @@
 
     footer{margin-top:26px;color:var(--muted);font-size:0.8125rem;text-align:center}
 
+    /* Tablet view - minimal adjustments to keep desktop look */
+    @media (max-width:1024px){
+      .container{padding:16px}
+    }
+
+    /* Mobile - stack and optimize for small screens */
     @media (max-width:800px){
       .section{flex-direction:column}
+      .section.reverse{flex-direction:column}
       .img-wrap{order:-1;width:100%}
       .play-row{flex-direction:column;align-items:flex-start}
+    }
+
+    @media (max-width:768px){
+      :root{--base-font-size:15px;--icon-size:56px;--character-width:120px;--enemy-width:100px;--flag-width:80px}
+      
+      .container{padding:12px;margin:12px auto}
+      header{flex-direction:column;text-align:center;gap:12px;padding:10px 14px}
+      .brand{justify-content:center}
+      .title{font-size:1.35rem}
+      .subtitle{font-size:0.75rem}
+      
+      .hero-banner{height:240px;padding:12px}
+      .hero-card{padding:10px}
+      .hero-card h2{font-size:1.1rem}
+      .hero-card p{font-size:0.9rem}
+      
+      .card{padding:14px}
+      h2{font-size:1.2rem;margin-bottom:6px}
+      p{font-size:0.95rem}
+      
+      .play-row{flex-direction:column;align-items:stretch;gap:12px;width:100%}
+      .play-btn{padding:14px 16px;font-size:1rem;text-align:center;width:100%}
+      .download-group{flex-direction:column;width:100%}
+      .download-btn{width:100%;text-align:center;padding:10px}
+      
+      footer{font-size:0.75rem;margin-top:20px}
+    }
+
+    @media (max-width:480px){
+      :root{--base-font-size:14px;--icon-size:48px;--character-width:100px;--enemy-width:80px;--flag-width:64px}
+      
+      .container{padding:10px;margin:8px auto}
+      header{padding:8px 10px;gap:8px}
+      .brand{gap:10px}
+      .brand img{width:var(--icon-size);height:var(--icon-size)}
+      .title{font-size:1.2rem;letter-spacing:0.3px}
+      .byline{font-size:0.75rem}
+      
+      .hero{padding:12px;gap:12px}
+      .hero-banner{height:200px;padding:10px}
+      .hero-card{padding:8px}
+      .hero-card h2{font-size:1rem;margin:0}
+      .hero-card p{font-size:0.85rem}
+      
+      .card{padding:12px}
+      h2{font-size:1.1rem;margin-bottom:4px}
+      p{font-size:0.9rem}
+      
+      .play-row{gap:10px;margin-top:12px}
+      .play-btn{padding:12px 14px;font-size:0.95rem}
+      .download-group{gap:6px}
+      .download-btn{padding:8px 10px;font-size:0.85rem}
+      
+      footer{font-size:0.7rem}
+    }
+
+    @media (max-width:360px){
+      :root{--base-font-size:13px;--icon-size:40px;--character-width:80px;--enemy-width:70px;--flag-width:56px}
+      
+      .container{padding:8px}
+      .title{font-size:1.1rem}
+      .hero-banner{height:180px}
+      .card{padding:10px}
+      h2{font-size:1rem}
+      p{font-size:0.85rem}
+    }
+
+    /* Touch-friendly interactions for mobile */
+    @media (hover: none) and (pointer: coarse) {
+      .play-btn,
+      .download-btn {
+        min-height: 44px;
+        min-width: 44px;
+      }
+    }
+
+    /* Reduce motion for users who prefer it */
+    @media (prefers-reduced-motion: reduce) {
+      * {
+        animation-duration: 0.01ms !important;
+        animation-iteration-count: 1 !important;
+        transition-duration: 0.01ms !important;
+      }
     }
   </style>
 </head>
@@ -98,13 +188,14 @@
         <div style="display:flex;justify-content:space-between;gap:14px">
           <div class="card" style="flex:1">
             <h2>About the Game</h2>
-            <p>This is a 2D pixel art game I made for fun. It is my first Godot game, so I was and am still learning. It is available as a Windows, Linux, or Mac app and on a website. It is unsigned because I am unable to pay. It has controller support, which is tested on macOS. The very base of the game was from <a href="https://www.youtube.com/watch?v=LOhfqjmasi0" target="_blank" rel="noopener noreferrer">Brackeys "How to make a Video Game - Godot Beginner Tutorial"</a>.</p>
+            <p>This is a 2D pixel art game I made for fun. It is my first Godot game, so I was and am still learning. It is available as a Windows, Linux, or Mac app and on a website. It is unsig[...]
+          </div>
           <div class="card" style="flex:0 0 240px;text-align:center">
             <img src="Web_Asset/character.png" alt="Character preview" class="character pixel-art">
           </div>
           <div class="card" style="flex:1">
             <h2>Updates</h2>
-            <p>This is still in development so more features are going to be added soon! <a href="https://sullydux.github.io/sullydux/email.html" target="_blank" rel="noopener">Email me</a> if you have any suggestions or bugs.</p>
+            <p>This is still in development so more features are going to be added soon! <a href="https://sullydux.github.io/sullydux/email.html" target="_blank" rel="noopener">Email me</a> if yo[...]
           </div>
         </div>
       </section>
@@ -112,8 +203,8 @@
       <section class="section reverse">
         <div class="card">
           <h2>Be a Hero But Also Beware</h2>
-          <p>Explore a handcrafted pixel art world packed with challenges and hidden secrets, all within a tightly designed map. Coins are scattered throughout the environment, rewarding careful exploration and clever platforming.
-          Scattered flags act as checkpoints, letting you push forward without losing progress when you fall. The realm is under siege by slimes and their fearsome boss, causing all citizens to flee in fear. With no help from them, you must face the threat alone. Battle through slime-infested areas, recover the looted coins, and restore peace to the kingdom in this intense adventure. You are the knight who shall recover the realm!</p>
+          <p>Explore a handcrafted pixel art world packed with challenges and hidden secrets, all within a tightly designed map. Coins are scattered throughout the environment, rewarding careful [...]
+          Scattered flags act as checkpoints, letting you push forward without losing progress when you fall. The realm is under siege by slimes and their fearsome boss, causing all citizens to f[...]
         </div>
         <div class="img-wrap">
           <img src="Web_Asset/slime.png" alt="Enemy: Slime" class="enemy pixel-art">
