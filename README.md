@@ -8,7 +8,7 @@
 
 
 ### Release 4
-v1.4.2
+v1.4.3
 
 [Web](https://sullybase.github.io/Coin/) or [App](https://www.patreon.com/collection/2257757)
 </div>
